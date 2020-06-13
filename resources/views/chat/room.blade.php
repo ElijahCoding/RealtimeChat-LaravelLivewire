@@ -7,7 +7,7 @@
                 users
             </div>
             <div class="col-md-10">
-                messages
+                <livewire:chat.messages :messages="$messages" />
                 new messages
             </div>
         </div>
