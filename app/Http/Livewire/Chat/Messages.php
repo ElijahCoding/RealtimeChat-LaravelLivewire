@@ -21,7 +21,7 @@ class Messages extends Component
      * @var [type]
      */
     public $messages;
-
+    
     /**
      * Undocumented function
      *

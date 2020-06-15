@@ -8,7 +8,7 @@
                 <span style="white-space: pre-wrap;">{{ $message->body }}</span>
             </div>
         @endforeach
-    @else
+    @else   
         <p>It's quiet here...</p>
     @endif
 </div>
